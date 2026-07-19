@@ -1,95 +1,88 @@
-## Hi there 👋
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Ashha G
-
 <div align="center">
 
-### 🚀 Electronics & Communication Engineer | Embedded Systems | AI Developer | Full Stack Developer
+# Hi there, I'm Ashha G 👋
+
+### Electronics & Communication Engineer | Embedded Systems | AI Developer | Full Stack Developer
 
 Building intelligent software, embedded systems, and AI-powered applications that solve real-world problems.
 
-<br>
+<p>
+  <a href="https://github.com/ASHHA19">
+    <img src="https://img.shields.io/github/followers/ASHHA19?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/ashha-g-25722a384">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ashhareddy19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://ashha-portfolio-19.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
-<a href="https://github.com/ASHHA19">
-<img src="https://img.shields.io/github/followers/ASHHA19?style=for-the-badge&logo=github&color=181717"/>
-</a>
-
-<a href="https://linkedin.com/in/ashha-g-25722a384">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:ashhareddy19@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://ashha-portfolio-19.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=ASHHA19&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```yaml
 name: Ashha G
+
 role: Electronics & Communication Engineer
-location: India
 
 specialization:
   - Embedded Systems
-  - AI & Machine Learning
+  - Artificial Intelligence
   - Full Stack Development
   - IoT
   - PCB Design
 
 currently_learning:
   - ARM Cortex-M4
+  - Advanced React
   - Next.js
   - Firebase
   - AI Engineering
   - System Design
 
-goal:
+career_goal:
   Build intelligent software and embedded systems
   that solve real-world problems.
 ```
-```
+
 ---
 
 # 🚀 Tech Stack
 
-## Programming Languages
+## 💻 Programming Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts"/>
-
 </p>
 
 ---
 
-## Frontend
+## 🎨 Frontend Development
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-
 </p>
 
 ---
 
-## Backend
+## ⚙️ Backend Development
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql"/>
-
 </p>
 
 ---
 
-## AI / ML
+## 🤖 AI & Machine Learning
 
 <p>
 
@@ -103,27 +96,26 @@ goal:
 
 ---
 
-## Embedded Systems
+## 🔌 Embedded Systems
 
 - ARM Cortex-M4
 - Embedded C
 - STM32
 - Arduino
 - 8051
+- PCB Design
 - UART
 - SPI
 - I2C
 - IoT
-- PCB Design
+- Sensor Interfacing
 
 ---
 
-## Tools
+## 🛠 Tools & Platforms
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma"/>
-
 </p>
 
 ---
@@ -132,31 +124,26 @@ goal:
 
 ## 🤖 AI Resume Builder
 
-An AI-powered Resume Builder with ATS optimization, AI analysis, Cover Letter generation, Firebase authentication, and beautiful UI.
+- AI Resume Builder
+- ATS Optimization
+- Cover Letter Generator
+- Firebase Authentication
+- AI Resume Analysis
+- OpenAI Integration
 
-**Tech**
+**Tech Stack**
 
-Next.js
-
-React
-
-Firebase
-
-OpenAI
-
-Tailwind CSS
-
-TypeScript
+Next.js • React • TypeScript • Firebase • Tailwind CSS • OpenAI
 
 ---
 
 ## 🎤 AI Interview Platform
 
-AI-powered interview simulator with resume screening, NLP analysis, and intelligent feedback.
+AI-powered Interview Simulator with Resume Screening, NLP Analysis and Intelligent Feedback.
 
 ---
 
-## 🚆 Train Track Defect Detection
+## 🚆 Train Track Defect Detection System
 
 Embedded IoT system that detects railway track defects using sensors and microcontrollers.
 
@@ -168,69 +155,62 @@ Machine Learning and Computer Vision project for early heart disease prediction.
 
 ---
 
-## 🌐 Personal Portfolio
+## 🌐 Personal Portfolio Website
 
-Modern animated developer portfolio built with Next.js and Framer Motion.
+Modern animated portfolio built using Next.js, Tailwind CSS and Framer Motion.
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=ASHHA19&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ASHHA19&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHHA19&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHHA19&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ASHHA19&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHHA19&theme=tokyo-night"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ASHHA19&theme=tokyonight&margin-w=15&no-frame=true"/>
 
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHHA19&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
 # 🎯 Current Focus
 
-✅ AI Resume Builder
-
-✅ Embedded Firmware
-
-✅ ARM Cortex-M4
-
-✅ Firebase
-
-✅ OpenAI Integration
-
-✅ System Design
+- 🚀 Building an AI Resume Builder SaaS
+- 🤖 AI & Machine Learning Projects
+- ⚡ ARM Cortex-M4 Programming
+- 🌐 Full Stack Development
+- ☁️ Firebase & Cloud Integration
+- 📈 System Design
 
 ---
 
@@ -239,65 +219,43 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHHA19&layo
 - Advanced Embedded Systems
 - AI Engineering
 - Cloud Computing
-- Scalable Web Applications
 - Backend Architecture
 - Docker
 - Kubernetes
+- Scalable Web Applications
 
 ---
 
-# 🤝 Let's Connect
+# 📫 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com/in/ashha-g-25722a384">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<a href="https://ashha-portfolio-19.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://github.com/ASHHA19">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
+<a href="https://linkedin.com/in/ashha-g-25722a384">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:ashhareddy19@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://ashha-portfolio-19.vercel.app">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-
+<a href="https://github.com/ASHHA19">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 💡 "Turning Ideas into Intelligent Software & Embedded Systems."
 
-*"Turning ideas into intelligent software and embedded systems."*
+⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=ASHHA19&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+If you like my work, don't forget to ⭐ my repositories.
 
 </div>
-<!--
-**ASHHA19/ASHHA19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
