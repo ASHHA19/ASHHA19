@@ -29,33 +29,31 @@ Building intelligent software, embedded systems, and AI-powered applications tha
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```cpp
-class AshhaG {
-public:
-    string role = "Electronics & Communication Engineer";
+```yaml
+name: Ashha G
+role: Electronics & Communication Engineer
+location: India
 
-    vector<string> interests = {
-        "Embedded Systems",
-        "Artificial Intelligence",
-        "Full Stack Development",
-        "IoT",
-        "Firmware Development",
-        "PCB Design"
-    };
+specialization:
+  - Embedded Systems
+  - AI & Machine Learning
+  - Full Stack Development
+  - IoT
+  - PCB Design
 
-    vector<string> currentlyLearning = {
-        "ARM Cortex-M4",
-        "Advanced React",
-        "Next.js",
-        "Cloud Computing",
-        "System Design"
-    };
+currently_learning:
+  - ARM Cortex-M4
+  - Next.js
+  - Firebase
+  - AI Engineering
+  - System Design
 
-    string goal =
-        "Building AI-powered software and embedded products.";
-};
+goal:
+  Build intelligent software and embedded systems
+  that solve real-world problems.
+```
 ```
 ---
 
