@@ -33,11 +33,8 @@ Building intelligent software, embedded systems, and AI-powered applications tha
 
 ```cpp
 class AshhaG {
-
 public:
-
-    string role =
-        "Electronics & Communication Engineer";
+    string role = "Electronics & Communication Engineer";
 
     vector<string> interests = {
         "Embedded Systems",
@@ -58,10 +55,8 @@ public:
 
     string goal =
         "Building AI-powered software and embedded products.";
-
 };
 ```
-
 ---
 
 # 🚀 Tech Stack
